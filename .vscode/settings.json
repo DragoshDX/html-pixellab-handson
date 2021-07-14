@@ -10,9 +10,7 @@
   "prettier.singleQuote": true,
   "javascript.format.semicolons": "insert",
   "prettier.trailingComma": "all",
-  "prettier.disableLanguages": [
-    "html"
-  ],
+  "prettier.disableLanguages": ["html"],
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
