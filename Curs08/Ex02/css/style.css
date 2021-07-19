@@ -114,3 +114,18 @@
   font-style: italic;
   font-display: swap;
 }
+
+body {
+  font-family: 'Julius Sans One';
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: green;
+  font-size: 28px;
+}
+
+ol a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
